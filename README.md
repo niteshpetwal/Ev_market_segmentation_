@@ -1,1 +1,2 @@
 # Ev_market_segmentation_
+The primary objective of this report is to analyze the market behavior concerning electric vehicles (EVs) in India by studying various consumer characteristics, such as age, profession, income, marital status, and dependents. It aims to uncover key factors influencing the purchase of EVs and internal combustion engine (ICE) vehicles, focusing on income and demographic variables that impact car-buying behaviour
